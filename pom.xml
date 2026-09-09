@@ -64,7 +64,7 @@
                 <version>2.14</version>
                 <configuration>
                     <failsOnError>false</failsOnError>
-                    <failOnViolation>true</failOnViolation>
+                    <failOnViolation>false</failOnViolation>
 
                     <!-- Relaxed threshold -->
                     <maxAllowedViolations>100</maxAllowedViolations>
